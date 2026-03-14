@@ -15,6 +15,4 @@
 1. Jalankan PHP server: `php -S localhost:`
 2. Buka browser: `http://localhost:/nama_file.php`
 
-git add README.md
-git commit -m "Update README"
-git push
+

@@ -12,8 +12,8 @@
 - Latihan4.php - Switch Case (Nama Hari)
 
 ## Cara Menjalankan
-1. Jalankan PHP server: `php -S localhost:8000`
-2. Buka browser: `http://localhost:8000/nama_file.php`
+1. Jalankan PHP server: `php -S localhost:`
+2. Buka browser: `http://localhost:/nama_file.php`
 
 git add README.md
 git commit -m "Update README"
